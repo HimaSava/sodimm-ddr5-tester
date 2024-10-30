@@ -1,0 +1,660 @@
+Info: Updated footprint R139 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R159 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C166 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C107 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C77 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R150 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C87 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C3 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R103 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R114 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R104 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R118 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R117 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R110 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R113 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R99 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R98 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C153 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C158 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C151 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C155 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C144 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C136 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C152 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C141 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C140 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C148 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C143 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C134 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C145 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C146 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R109 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R108 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R111 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R107 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R87 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R86 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R82 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R80 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R81 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R85 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R83 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R122 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R181 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R138 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C190 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C186 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R186 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R125 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R79 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R155 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C208 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C133 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C182 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C217 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C173 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint C179 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint U17 (Package_TO_SOT_SMD:SOT-23-6): : (no changes)
+Info: Updated footprint C176 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R51 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R6 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C131 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R90 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R182 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C194 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint SW6 (Button_Switch_SMD:SW_DIP_SPSTx02_Slide_Copal_CVS-02xB_W5.9mm_P1mm): : (no changes)
+Info: Updated footprint R93 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C180 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R11 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R89 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C219 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R189 (Resistor_SMD:R_0603_1608Metric): : (no changes)
+Info: Updated footprint SW4 (Button_Switch_SMD:SW_DIP_SPSTx08_Slide_Copal_CVS-08xB_W5.9mm_P1mm): : (no changes)
+Info: Updated footprint C225 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C171 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint C214 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R62 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R136 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C6 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint U22 (Package_TO_SOT_SMD:SOT-23-6): : (no changes)
+Info: Updated footprint C199 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R7 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C1 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R128 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R173 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R168 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C113 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R188 (Resistor_SMD:R_0603_1608Metric): : (no changes)
+Info: Updated footprint R12 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R142 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint C216 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C201 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C7 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C221 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R68 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R185 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C218 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C109 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R92 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R9 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint U24 (Package_SO:VSSOP-8_2.3x2mm_P0.5mm): : (no changes)
+Info: Updated footprint U31 (Package_TO_SOT_SMD:SOT-23-6): : (no changes)
+Info: Updated footprint R67 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C178 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint C205 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint U30 (Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm): : (no changes)
+Info: Updated footprint R171 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R66 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint REF** (Symbol:Symbol_Barrel_Polarity): : (no changes)
+Info: Updated footprint R141 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint C124 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R45 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R180 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint Q12 (Package_SO:Vishay_PowerPAK_1212-8_Single): : (no changes)
+Info: Updated footprint R145 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint C220 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C177 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint R61 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint Q13 (Package_SO:Vishay_PowerPAK_1212-8_Single): : (no changes)
+Info: Updated footprint R164 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C181 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C132 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R13 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R94 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R183 (Resistor_SMD:R_0603_1608Metric): : (no changes)
+Info: Updated footprint R151 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint U29 (Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm): : (no changes)
+Info: Updated footprint R127 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R63 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R19 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R8 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C187 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R46 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R135 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint U5 (Package_TO_SOT_SMD:SOT-23-5): : (no changes)
+Info: Updated footprint R40 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R78 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C185 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C206 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R147 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint R69 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C210 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R123 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint U23 (Package_SO:VSSOP-8_2.3x2mm_P0.5mm): : (no changes)
+Info: Updated footprint C215 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R166 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R153 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C207 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C126 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R162 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C121 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint U25 (Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm): : (no changes)
+Info: Updated footprint U21 (Package_TO_SOT_SMD:SOT-23-5): : (no changes)
+Info: Updated footprint R41 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C197 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C196 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R64 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint U16 (Package_SO:TSSOP-8_3x3mm_P0.65mm): : (no changes)
+Info: Updated footprint R161 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R137 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R65 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint U18 (Package_TO_SOT_SMD:SOT-23-6): : (no changes)
+Info: Updated footprint SW1 (Button_Switch_SMD:SW_DIP_SPSTx03_Slide_Copal_CVS-03xB_W5.9mm_P1mm): : (no changes)
+Info: Updated footprint C184 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R146 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint C202 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint R148 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint R144 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint R42 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C188 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C175 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R16 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C213 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C191 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R95 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint REF** (Symbol:Symbol_Barrel_Polarity): : (no changes)
+Info: Updated footprint R157 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R88 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C211 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C192 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C128 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C183 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C189 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R143 (Resistor_SMD:R_1206_3216Metric): : (no changes)
+Info: Updated footprint R124 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C200 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint R43 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R70 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R71 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R72 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R73 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R74 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R75 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R76 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R77 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R100 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R112 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C162 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C163 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C156 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C147 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C150 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C154 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C149 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C157 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C138 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C159 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C142 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C139 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C120 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C125 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C60 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C63 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C52 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R28 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R25 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C5 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R172 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R160 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C97 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C164 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R14 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C82 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C118 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C42 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C10 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C61 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C234 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C67 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C74 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C229 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C233 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C137 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C112 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C222 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C54 (Capacitor_SMD:C_0805_2012Metric): : (no changes)
+Info: Updated footprint R84 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R1 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R129 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C117 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C114 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C110 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C78 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C98 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C22 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R44 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C27 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C90 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C43 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C135 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C68 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C122 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C232 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C174 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C119 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R3 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C85 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C111 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C115 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C100 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C49 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C13 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R17 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C160 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C89 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C31 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C73 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C104 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C2 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C165 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C238 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R4 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C15 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint R47 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C44 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C17 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C168 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R5 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C69 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C14 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C105 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C56 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C235 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C47 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R140 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R184 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R49 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R50 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C65 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C129 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C86 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C93 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C21 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R97 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C39 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R38 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R48 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C40 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R55 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C81 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C64 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C167 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C103 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C37 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C212 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C91 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C84 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C236 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C48 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R54 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C227 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C172 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C23 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C19 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C53 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C58 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C30 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R27 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R53 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C223 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R52 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint R21 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C75 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C76 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C45 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R18 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C123 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R20 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C116 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C32 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C130 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C55 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R170 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C231 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C80 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C35 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C99 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R2 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C26 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C237 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C33 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R187 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C57 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C71 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C41 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C209 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C59 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C51 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C95 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C66 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R190 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C8 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R193 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C29 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C36 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R23 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C203 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C24 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C28 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C18 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C161 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C46 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C230 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C92 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R39 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C96 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R96 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C50 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C204 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C170 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C198 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C83 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C11 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C226 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C102 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C79 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C20 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C16 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C108 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R132 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C195 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C4 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C169 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C62 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C70 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R149 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C106 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C224 (Capacitor_SMD:C_0603_1608Metric): : (no changes)
+Info: Updated footprint C94 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R130 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C101 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C9 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C88 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R31 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C72 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint R15 (Resistor_SMD:R_0402_1005Metric): : (no changes)
+Info: Updated footprint C228 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Info: Updated footprint C34 (Capacitor_SMD:C_0402_1005Metric): : (no changes)
+Updated footprint R58 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R22 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R163 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R131 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R174 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R152 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R178 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint FID1001 (Fiducial:Fiducial_1mm_Mask2mm): : OK
+Updated footprint FID1003 (Fiducial:Fiducial_1mm_Mask2mm): : OK
+Updated footprint R176 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R179 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R33 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R177 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R175 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R32 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R158 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R165 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R26 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R154 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R191 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R10 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R34 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint C127 (Capacitor_SMD:C_0402_1005Metric): : OK
+Updated footprint R57 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R56 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint FID1005 (Fiducial:Fiducial_1mm_Mask2mm): : OK
+Updated footprint R156 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R30 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R29 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint FID1002 (Fiducial:Fiducial_1mm_Mask2mm): : OK
+Updated footprint R192 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R116 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R169 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R106 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R105 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R102 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R101 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint FID1004 (Fiducial:Fiducial_1mm_Mask2mm): : OK
+Updated footprint R121 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint FID1006 (Fiducial:Fiducial_1mm_Mask2mm): : OK
+Updated footprint R120 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R119 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R35 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R91 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint C193 (Capacitor_SMD:C_0603_1608Metric): : OK
+Updated footprint R167 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R115 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R24 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R59 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R60 (Resistor_SMD:R_0402_1005Metric): : OK
+Updated footprint R126 (Resistor_SMD:R_0402_1005Metric): : OK
+Error: Updated footprint kibuzzard-6596C167 (kibuzzard-6596C167): *** library footprint not found ***
+Error: Updated footprint U7 (DHVQFN-14-1EP_2.5x3mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659D7295 (kibuzzard-659D7295): *** library footprint not found ***
+Error: Updated footprint J3 (USB-C_Receptacle_GCT_USB4105-GF-A): *** library footprint not found ***
+Error: Updated footprint NT4 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint Q10 (SC70-3): *** library footprint not found ***
+Error: Updated footprint TP13 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint D8 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint NT15 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint TP15 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D72F (kibuzzard-6596D72F): *** library footprint not found ***
+Error: Updated footprint TP9 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659800DD (kibuzzard-659800DD): *** library footprint not found ***
+Error: Updated footprint U26 (SOT-143-4): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659D7203 (kibuzzard-659D7203): *** library footprint not found ***
+Error: Updated footprint H1 (Heatsink_960-27-12-D-AB-0): *** library footprint not found ***
+Error: Updated footprint TP22 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint L1 (L_Bourns-SRP6050CA): *** library footprint not found ***
+Error: Updated footprint D2 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint NT1 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D4AE (kibuzzard-6596D4AE): *** library footprint not found ***
+Error: Updated footprint kibuzzard-623AE55E (label): *** library footprint not found ***
+Error: Updated footprint D3 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C33F (kibuzzard-6596C33F): *** library footprint not found ***
+Error: Updated footprint U12 (USON-10_2.5x1mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint TP20 (TP_1206_SMD_RCW-0C): *** library footprint not found ***
+Error: Updated footprint Q5 (SC70-3): *** library footprint not found ***
+Error: Updated footprint Q7 (SC70-3): *** library footprint not found ***
+Error: Updated footprint MP4 (MP_NPTH_Drill3mm): *** library footprint not found ***
+Error: Updated footprint REF** (OSHW-Logo2_7.3x6mm_Copper_Mask): *** library footprint not found ***
+Error: Updated footprint TP17 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint TP8 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint NT6 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint FB3 (FB_0603_1608Metric): *** library footprint not found ***
+Error: Updated footprint NT7 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659D72BB (kibuzzard-659D72BB): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D49A (kibuzzard-6596D49A): *** library footprint not found ***
+Error: Updated footprint J5 (MicroSD_Wurth_693071020811): *** library footprint not found ***
+Error: Updated footprint TP10 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint Q3 (SC70-3): *** library footprint not found ***
+Error: Updated footprint kibuzzard-63C15B7C (kibuzzard-63C15B7C): *** library footprint not found ***
+Error: Updated footprint Q4 (SC70-3): *** library footprint not found ***
+Error: Updated footprint SW3 (SW_KMR211NGLFS_SMD): *** library footprint not found ***
+Error: Updated footprint kibuzzard-64060195 (kibuzzard-64060195): *** library footprint not found ***
+Error: Updated footprint C12 (C_Pol_EIA-D): *** library footprint not found ***
+Error: Updated footprint D9 (LED_RGY_1.6x1.6mm_APTF1616): *** library footprint not found ***
+Error: Updated footprint J8 (Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN): *** library footprint not found ***
+Error: Updated footprint D5 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint NT14 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint NT3 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659EAFB0 (kibuzzard-659EAFB0): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659809E7 (kibuzzard-659809E7): *** library footprint not found ***
+Error: Updated footprint D11 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659D728A (kibuzzard-659D728A): *** library footprint not found ***
+Error: Updated footprint U9 (X1QFN-16-1EP_2.5x2.5mm): *** library footprint not found ***
+Error: Updated footprint U10 (USON-10_2.5x1mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint TP12 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint SW2 (SW_KMR211NGLFS_SMD): *** library footprint not found ***
+Error: Updated footprint U8 (USON-10_2.5x1mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint D16 (ESDA25P35-1U1M): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C348 (kibuzzard-6596C348): *** library footprint not found ***
+Error: Updated footprint D1 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint Q14 (SC70-3): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659800D0 (kibuzzard-659800D0): *** library footprint not found ***
+Error: Updated footprint D12 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint C38 (C_Pol_EIA-B): *** library footprint not found ***
+Error: Updated footprint kibuzzard-640602C1 (kibuzzard-640602C1): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659E6869 (kibuzzard-659E6869): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65980153 (kibuzzard-65980153): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659EAFB8 (kibuzzard-659EAFB8): *** library footprint not found ***
+Error: Updated footprint D4 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint Q8 (SC70-3): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659D72CA (kibuzzard-659D72CA): *** library footprint not found ***
+Error: Updated footprint J9 (Edge_Conn_Bus_PCIexpress_x4): *** library footprint not found ***
+Error: Updated footprint kibuzzard-63C15B91 (kibuzzard-63C15B91): *** library footprint not found ***
+Error: Updated footprint U13 (DHVQFN-14-1EP_2.5x3mm): *** library footprint not found ***
+Error: Updated footprint NT8 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65980D80 (kibuzzard-65980D80): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D52E (kibuzzard-6596D52E): *** library footprint not found ***
+Error: Updated footprint TP7 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint FB5 (FB_0603_1608Metric): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D989 (kibuzzard-6596D989): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C359 (kibuzzard-6596C359): *** library footprint not found ***
+Error: Updated footprint F2 (F_1206_3216Metric): *** library footprint not found ***
+Error: Updated footprint U14 (USON-10_2.5x1mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65969B91 (kibuzzard-65969B91): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6598010B (kibuzzard-6598010B): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65969B7C (kibuzzard-65969B7C): *** library footprint not found ***
+Error: Updated footprint Y3 (Oscillator_SMD_Abracon_ASFL1-4Pin_5.0x3.2mm): *** library footprint not found ***
+Error: Updated footprint NT12 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint MP1 (MP_Pad6mm_Drill3mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C34F (kibuzzard-6596C34F): *** library footprint not found ***
+Error: Updated footprint TP18 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint U19 (LGA-33_7x7mm_P0.65mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C2A6 (kibuzzard-6596C2A6): *** library footprint not found ***
+Error: Updated footprint U20 (LGA-33_7x7mm_P0.65mm): *** library footprint not found ***
+Error: Updated footprint TP19 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659EAF4E (kibuzzard-659EAF4E): *** library footprint not found ***
+Error: Updated footprint Q6 (SC70-3): *** library footprint not found ***
+Error: Updated footprint J2 (Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D979 (kibuzzard-6596D979): *** library footprint not found ***
+Error: Updated footprint U28 (Torex_USP-6C): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65980275 (kibuzzard-65980275): *** library footprint not found ***
+Error: Updated footprint U3 (WSON-8_6x8x0.5mm_P1.27mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C2AD (kibuzzard-6596C2AD): *** library footprint not found ***
+Error: Updated footprint Q2 (SC70-3): *** library footprint not found ***
+Error: Updated footprint H2 (Mech_Lightpipe_Mentor_1296.2013): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659EADF0 (kibuzzard-659EADF0): *** library footprint not found ***
+Error: Updated footprint kibuzzard-63C15B91 (kibuzzard-63C15B91): *** library footprint not found ***
+Error: Updated footprint Q17 (SC70-3): *** library footprint not found ***
+Error: Updated footprint C25 (C_Pol_EIA-B): *** library footprint not found ***
+Error: Updated footprint MP3 (MP_NPTH_Drill3mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C325 (kibuzzard-6596C325): *** library footprint not found ***
+Error: Updated footprint U2 (USON-10_2.5x1mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint NT9 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint NT16 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659E9C75 (kibuzzard-659E9C75): *** library footprint not found ***
+Error: Updated footprint U11 (USON-10_2.5x1mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint NT10 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D9B6 (kibuzzard-6596D9B6): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659801FD (kibuzzard-659801FD): *** library footprint not found ***
+Error: Updated footprint U27 (MPS_QFN-14_MP8869S): *** library footprint not found ***
+Error: Updated footprint Q16 (SC70-3): *** library footprint not found ***
+Error: Updated footprint TP14 (TP_1206_SMD_RCW-0C): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C3B5 (kibuzzard-6596C3B5): *** library footprint not found ***
+Error: Updated footprint kibuzzard-640602B5 (kibuzzard-640602B5): *** library footprint not found ***
+Error: Updated footprint U32 (X2SON8_1.4x1x0.32mm_P0.35mm): *** library footprint not found ***
+Error: Updated footprint NT2 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint REF** (antmicro-logo_scaled_20mm): *** library footprint not found ***
+Error: Updated footprint NT13 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint SW5 (SW_KMR211NGLFS_SMD): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6598010B (kibuzzard-6598010B): *** library footprint not found ***
+Error: Updated footprint TP11 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint F1 (F_1206_3216Metric): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6598095F (kibuzzard-6598095F): *** library footprint not found ***
+Error: Updated footprint J6 (RJ45_X-2337992-8_Horizontal): *** library footprint not found ***
+Error: Updated footprint NT5 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6598027D (kibuzzard-6598027D): *** library footprint not found ***
+Error: Updated footprint Q9 (SC70-3): *** library footprint not found ***
+Error: Updated footprint D7 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint D13 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6598095F (kibuzzard-6598095F): *** library footprint not found ***
+Error: Updated footprint TP16 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint Q1 (SC70-3): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596D4A3 (kibuzzard-6596D4A3): *** library footprint not found ***
+Error: Updated footprint U4 (BGA-676_27x27mm_Layout26x26_P1x1mm_FFG676): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BFD1B (kibuzzard-659BFD1B): *** library footprint not found ***
+Error: Updated footprint J4 (HDMI-A_Receptacle_WE_685119134923): *** library footprint not found ***
+Error: Updated footprint TP2 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint TP4 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint TP6 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint TP3 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint TP5 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint U15 (QFN-48-1EP_7x7x0.9mm_P0.5mm_EP3.5x3.5mm): *** library footprint not found ***
+Error: Updated footprint Y2 (Resonator_SMD_Abracon_ABM8G_3.2x2.5mm): *** library footprint not found ***
+Error: Updated footprint FB6 (FB_0603_1608Metric): *** library footprint not found ***
+Error: Updated footprint FB1 (FB_0603_1608Metric): *** library footprint not found ***
+Error: Updated footprint FB2 (FB_0603_1608Metric): *** library footprint not found ***
+Error: Updated footprint Y1 (Resonator_SMD_Abracon_ABM8G_3.2x2.5mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BFD28 (kibuzzard-659BFD28): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FDFD (kibuzzard-65A8FDFD): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659C009C (kibuzzard-659C009C): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BF0B2 (kibuzzard-659BF0B2): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FFDE (kibuzzard-65A8FFDE): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659C00BE (kibuzzard-659C00BE): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FE11 (kibuzzard-65A8FE11): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FE06 (kibuzzard-65A8FE06): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FF3C (kibuzzard-65A8FF3C): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FF23 (kibuzzard-65A8FF23): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BFAB7 (kibuzzard-659BFAB7): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BF078 (kibuzzard-659BF078): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FF90 (kibuzzard-65A8FF90): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FEBE (kibuzzard-65A8FEBE): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FF3C (kibuzzard-65A8FF3C): *** library footprint not found ***
+Error: Updated footprint TP24 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FE58 (kibuzzard-65A8FE58): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FE84 (kibuzzard-65A8FE84): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FF23 (kibuzzard-65A8FF23): *** library footprint not found ***
+Error: Updated footprint U33 (X2SON8_1.4x1x0.32mm_P0.35mm): *** library footprint not found ***
+Error: Updated footprint R133 (R_0402_1005Metric_EIA): *** library footprint not found ***
+Error: Updated footprint TP23 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FFD2 (kibuzzard-65A8FFD2): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FDF2 (kibuzzard-65A8FDF2): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659E6E97 (kibuzzard-659E6E97): *** library footprint not found ***
+Error: Updated footprint R134 (R_0402_1005Metric_EIA): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BFB60 (kibuzzard-659BFB60): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659EAD21 (kibuzzard-659EAD21): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659BFAA8 (kibuzzard-659BFAA8): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65A8FECF (kibuzzard-65A8FECF): *** library footprint not found ***
+Error: Updated footprint TP1 (TP_SMD_1mm): *** library footprint not found ***
+Error: Updated footprint U1 (FBGA-25-24_6x8mm_Layout5x5_P1mm): *** library footprint not found ***
+Error: Updated footprint FB4 (FB_0603_1608Metric): *** library footprint not found ***
+Error: Updated footprint J7 (BarrelJack_Pin2mm_MJ-179PH): *** library footprint not found ***
+Error: Updated footprint J1 (PinHeader_2x7_P2mm_SMD_Shrouded_no-locator): *** library footprint not found ***
+Error: Updated footprint U6 (QFN-56-1EP_8x8mm_P0.5mm): *** library footprint not found ***
+Error: Updated footprint MP2 (MP_Pad6mm_Drill3mm): *** library footprint not found ***
+Error: Updated footprint Q15 (SC70-3): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659E6869 (kibuzzard-659E6869): *** library footprint not found ***
+Error: Updated footprint D6 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint Q11 (SC70-3): *** library footprint not found ***
+Error: Updated footprint D15 (SOD-523): *** library footprint not found ***
+Error: Updated footprint TP21 (TP_1206_SMD_RCW-0C): *** library footprint not found ***
+Error: Updated footprint NT11 (NetTie-2_SMD_Pad0.127mm): *** library footprint not found ***
+Error: Updated footprint kibuzzard-63C15B7C (kibuzzard-63C15B7C): *** library footprint not found ***
+Error: Updated footprint kibuzzard-65980264 (kibuzzard-65980264): *** library footprint not found ***
+Error: Updated footprint D10 (LED_0603_1608Metric_G): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659E851E (kibuzzard-659E851E): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659EAEA3 (kibuzzard-659EAEA3): *** library footprint not found ***
+Error: Updated footprint kibuzzard-659E9D4D (kibuzzard-659E9D4D): *** library footprint not found ***
+Error: Updated footprint kibuzzard-6596C1A9 (kibuzzard-6596C1A9): *** library footprint not found ***
+Error: Updated footprint D14 (SOD-523): *** library footprint not found ***
