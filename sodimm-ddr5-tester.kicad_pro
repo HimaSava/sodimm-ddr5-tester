@@ -424,7 +424,9 @@
     "pinned_footprint_libs": [
       "sodimm-ddr5-tester-footprints"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "sodimm-ddr5-tester-lib"
+    ]
   },
   "meta": {
     "filename": "sodimm-ddr5-tester.kicad_pro",
