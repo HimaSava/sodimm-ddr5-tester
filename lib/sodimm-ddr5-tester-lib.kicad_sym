@@ -2045,7 +2045,7 @@
     (property "Value" "Bus_DDR5_UDIMM_Amphenol" (at 50.8 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "sodimm-ddr5-tester-footprints:Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF" (at 50.8 -10.16 0)
+    (property "Footprint" "sodimm-ddr5-tester-footprints:Bus_DDR5_Socket_Amphenol_DDR503112007K" (at 50.8 -10.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/ssio/ssio_ddr5_smt.pdf" (at 50.8 -12.7 0)
