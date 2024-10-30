@@ -3212,6 +3212,7 @@
   (no_connect (at 185.42 151.13) (uuid 8fbd7864-e114-4348-a622-ed9d8b2aa272))
   (no_connect (at 185.42 166.37) (uuid 9713123a-82ac-466b-936a-5685aafcb753))
   (no_connect (at 185.42 133.35) (uuid 9fcb7119-b499-47c6-82eb-f2901c7da699))
+  (no_connect (at 185.42 123.19) (uuid a0abb33b-92f5-48ba-b34d-911ee8036da2))
   (no_connect (at 185.42 163.83) (uuid b295fc23-9160-4b8e-9fbf-381b5f534105))
   (no_connect (at 185.42 120.65) (uuid b3c8cc5d-e34c-4148-b481-103f09896651))
   (no_connect (at 185.42 179.07) (uuid bd8b2029-d5e2-4de8-8fc7-07c53decd46a))
@@ -3443,10 +3444,6 @@
     (uuid da4be782-9161-4495-aab4-19cd55e404ee)
   )
 
-  (wire (pts (xy 184.15 123.19) (xy 185.42 123.19))
-    (stroke (width 0) (type default))
-    (uuid daf0f95e-07d8-4f81-8a9b-605a10e1fa2b)
-  )
   (wire (pts (xy 34.925 257.81) (xy 36.83 257.81))
     (stroke (width 0) (type default))
     (uuid dbb4727f-7136-4ec0-ba74-01271604b601)
@@ -3565,14 +3562,6 @@
   (label "HDMI.D1_N" (at 173.99 199.39 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fec758f6-eb3e-4e1e-bf5b-f21b16776783)
-  )
-
-  (global_label "PCIE.PWRGD" (shape input) (at 184.15 123.19 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 559937a7-632e-40b2-99b0-ce4b0b017036)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 170.3958 123.2694 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
   )
 
   (hierarchical_label "SD{SDIO}" (shape bidirectional) (at 149.225 106.045 180) (fields_autoplaced)
